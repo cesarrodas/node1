@@ -1,0 +1,26 @@
+{
+  "name": "nodeapp1",
+  "version": "1.0.0",
+  "description": "first node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarrodas/node1.git"
+  },
+  "keywords": [
+    "node",
+    "1"
+  ],
+  "author": "fitzcez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarrodas/node1/issues"
+  },
+  "homepage": "https://github.com/cesarrodas/node1#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
